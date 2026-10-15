@@ -43,4 +43,5 @@ An entry must be **both**:
 - Companies that merely have a sales or satellite office in Jerusalem
 - Private individuals. People are listed only for a public, professional role
 
-When in doubt: *is this both AI and Jerusalem?* Both must be true.
+When in doubt: *is this both AI and Jerusalem?* Both must be true — except for
+Jerusalem datasets, which qualify on being usable as AI input.
