@@ -26,21 +26,20 @@ An entry must be **both**:
 - Municipal and government AI initiatives in Jerusalem
 - Open-source AI projects about Jerusalem: agents, LLM tooling, AI-generated
   work with its method published
-- **Datasets built for machine learning about Jerusalem** — labelled detection
-  sets, image sets published for training. This differs from the parent
+- **Datasets about Jerusalem** that are usable for training, agent grounding or
+  analysis — labelled detection sets, image sets, sensor time series, geodata
+  such as shelter locations. This differs from the parent
   [Israeli-AI](https://github.com/danielrosehill/Israeli-AI) index, which sends
-  datasets to Israel-Reference-Repos; at city scale the datasets are few enough
-  to keep together with the projects that use them
+  datasets to Israel-Reference-Repos; at city scale the datasets are few enough,
+  and close enough to the projects that use them, to keep together here
 
 ## Out of scope
 
 - Israel-wide AI work with no Jerusalem connection — that belongs in
   [Israeli-AI](https://github.com/danielrosehill/Israeli-AI)
-- Jerusalem projects that are not AI — shelters maps, civic surveys, home
-  automation. Those belong in
+- Jerusalem projects that are neither AI nor data — civic surveys, home
+  automation, specific addresses. Those belong in
   [Jerusalem-Projects-Index](https://github.com/danielrosehill/Jerusalem-Projects-Index)
-- Datasets about Jerusalem that are not prepared for ML (e.g. raw sensor
-  readings, shelter lists)
 - Companies that merely have a sales or satellite office in Jerusalem
 - Private individuals. People are listed only for a public, professional role
 

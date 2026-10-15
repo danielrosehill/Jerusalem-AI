@@ -160,10 +160,14 @@ AI projects whose subject is the city.
 
 # Datasets and Models About Jerusalem
 
-Published for machine learning.
+Data about the city for training, agent grounding and analysis.
 
 | Resource | Type | Description |
 |---|---|---|
+| [Jerusalem-Air-Quality-Shabbat](https://huggingface.co/datasets/danielrosehill/Jerusalem-Air-Quality-Shabbat) | Dataset | Twelve months of 5-minute air-quality readings from 12 Jerusalem monitoring stations, structured for weekday vs Shabbat analysis |
+| [JLM-Air-Quality-Analysis](https://github.com/danielrosehill/JLM-Air-Quality-Analysis) | Analysis | Companion repo — halachic time-window relabeling, London and New York control cities, and findings on the Shabbat NO₂ dip |
+| [Jerusalem-Emergency-Shelters-0925](https://huggingface.co/datasets/danielrosehill/Jerusalem-Emergency-Shelters-0925) | Dataset | Jerusalem public shelter locations (CSV and GeoJSON), September 2025 snapshot |
+| [jlm-shelters-data](https://github.com/danielrosehill/jlm-shelters-data) | Dataset | Community-maintained Jerusalem shelter dataset and pipeline behind jlmshelters.com; the data source for JLM-Shelter-Agent |
 | [jerusalem-poster-detection](https://huggingface.co/datasets/danielrosehill/jerusalem-poster-detection) | Dataset | Geotagged street photos of a postering campaign in central Jerusalem, with per-design bounding boxes |
 | [jerusalem-poster-detector](https://huggingface.co/danielrosehill/jerusalem-poster-detector) | Model | YOLO11n fine-tune trained on the dataset above — proof of concept for flyposting surveys |
 | [Jerusalem-Streetscapes](https://huggingface.co/datasets/danielrosehill/Jerusalem-Streetscapes) | Dataset | 120 photos of Jerusalem's changing urban landscape, day and night (2024–2025) |
@@ -178,7 +182,7 @@ Published for machine learning.
 | [Israeli AI](https://github.com/danielrosehill/Israeli-AI) | Parent index — the Israeli AI ecosystem nationally |
 | [Jerusalem Projects Index](https://github.com/danielrosehill/Jerusalem-Projects-Index) | Non-AI projects about Jerusalem — civic surveys, shelters, specific addresses |
 | [Jerusalem Tech Ecosystem](https://github.com/danielrosehill/Jerusalem-Tech-Ecosystem) | Earlier, broader resource list on Jerusalem technology |
-| [Israel Reference Repos](https://github.com/danielrosehill/Israel-Reference-Repos) | Israel reference material and datasets, including non-ML Jerusalem data |
+| [Israel Reference Repos](https://github.com/danielrosehill/Israel-Reference-Repos) | Israel reference material and national datasets |
 
 # Contributing
 
